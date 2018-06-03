@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "232592174277",
+    "firebase_url": "https://coin-smarts-test.firebaseio.com",
+    "project_id": "coin-smarts-test",
+    "storage_bucket": "coin-smarts-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232592174277:android:32501110a75ef494",
+        "android_client_info": {
+          "package_name": "com.example.coinsmarts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232592174277-fna1l0nbof9oraln35see0v4so130qut.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "232592174277-fna1l0nbof9oraln35see0v4so130qut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqu9aWN2d-iB0DAAmNCcgWh-abYF4kyPE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
