@@ -24,6 +24,7 @@ class QuizInit{
        _score++;
        return true;
     }
+    return false;
   }
 }
 
